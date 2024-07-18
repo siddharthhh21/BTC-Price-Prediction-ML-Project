@@ -15,7 +15,8 @@ The [paper](9.pdf) contains all details of algorithms used along with results, a
 
 
 * Seasonal Decomposition of the Time-Series after order-1 differencing (to make it stationary)
-* ![image](https://github.com/user-attachments/assets/c490df0f-4036-410a-ae48-0a022a737e6e)
+![image](https://github.com/user-attachments/assets/f473c38d-3b0b-4526-a27e-16a918497cc3)
+
 
 
 ![Seasonal Decomposition After Order-1 Differencing](imgs/seas-decomp.png)
