@@ -1,7 +1,7 @@
 # BTC-Price-Prediction-ML-Project
 
 ## About
-This project focuses on the prediction of the prices of Bitcoin, the most in-demand crypto-currency of today’s world. We predict the prices accurately by gathering data available at[ [coinmarketcap]((https://coinmarketcap.com/currencies/bitcoin/)) ]while taking various hyper-parameters into consideration which have affected the bitcoin prices until now. 
+This project focuses on the prediction of the prices of Bitcoin, the most in-demand crypto-currency of today’s world. We predict the prices accurately by gathering data available at [coinmarketcap]((https://coinmarketcap.com/currencies/bitcoin/)) ]while taking various hyper-parameters into consideration which have affected the bitcoin prices until now. 
 
 ## Paper presentation
 The [paper](doc.pdf) contains all details of algorithms used along with results, anaylisis and discussions om the topic.
