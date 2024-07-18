@@ -4,13 +4,15 @@
 This project focuses on the prediction of the prices of Bitcoin, the most in-demand crypto-currency of today’s world. We predict the prices accurately by gathering data available at [coinmarketcap](https://web-api.coinmarketcap.com/v1/cryptocurrency/ohlcv/historical?convert=USD&slug=bitcoin&time_end=1601510400&time_start=1367107200) while taking various hyper-parameters into consideration which have affected the bitcoin prices until now. 
 
 ## Paper presentation
-The [paper](9.pdf) contains all details of algorithms used along with results, anaylisis and discussions om the topic.![image](https://github.com/user-attachments/assets/106a6068-6c4d-4132-829e-0aee2dbd1004)
+The [paper](9.pdf) contains all details of algorithms used along with results, anaylisis and discussions om the topic.
 
 
 ### Dataset
 * [Dataset](https://web-api.coinmarketcap.com/v1/cryptocurrency/ohlcv/historical?convert=USD&slug=bitcoin&time_end=1601510400&time_start=1367107200) has been downloaded using coinmarketcap API.
 
 * Dataset after Preprocessing
+* ![image](https://github.com/user-attachments/assets/ac569f0e-0739-4e70-8da3-1c8fa28d96d9)
+
 
 ![Dataset after preprocessing](imgs/df.png)
 
