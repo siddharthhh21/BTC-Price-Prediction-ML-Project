@@ -19,15 +19,17 @@ The [paper](9.pdf) contains all details of algorithms used along with results, a
 
 
 
-![Seasonal Decomposition After Order-1 Differencing](imgs/seas-decomp.png)
+
 
 * Correlation Plots 
 
-![Autocorrelation](imgs/corr.png)
+![image](https://github.com/user-attachments/assets/bfb46407-2877-44ff-b613-50ea9da42ef2)
+
 
 * Best Results (GARCH + SARIMAX) (RMSE: 154.32)
 
-![arima-garch-results](imgs/garch-sarimax.png)
+![image](https://github.com/user-attachments/assets/6f434a04-5ab7-4705-ad01-e86da10bc042)
+
 
 
 
