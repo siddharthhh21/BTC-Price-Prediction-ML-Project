@@ -14,9 +14,9 @@ The [paper](9.pdf) contains all details of algorithms used along with results, a
 * ![image](https://github.com/user-attachments/assets/ac569f0e-0739-4e70-8da3-1c8fa28d96d9)
 
 
-![Dataset after preprocessing](imgs/df.png)
-
 * Seasonal Decomposition of the Time-Series after order-1 differencing (to make it stationary)
+* ![image](https://github.com/user-attachments/assets/c490df0f-4036-410a-ae48-0a022a737e6e)
+
 
 ![Seasonal Decomposition After Order-1 Differencing](imgs/seas-decomp.png)
 
